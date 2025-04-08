@@ -1,24 +1,24 @@
 # README
+# Chatbot pour l'entretien des cheveux crépus
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Un chatbot Ruby on Rails spécialisé dans les questions fréquemment posées sur l'entretien des cheveux crépus.
 
-Things you may want to cover:
+## Fonctionnalités
 
-* Ruby version
+- Interface de chat simple et intuitive
+- Base de connaissances sur l'entretien des cheveux crépus
+- Recherche de correspondance pour trouver les réponses appropriées
 
-* System dependencies
+## Technologies utilisées
 
-* Configuration
+- Ruby on Rails
+- JavaScript
+- CSS
 
-* Database creation
+## Installation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Cloner le dépôt
+2. Exécuter `bundle install`
+3. Exécuter `rails db:migrate`
+4. Exécuter `rails db:seed` pour charger les questions/réponses
+5. Lancer le serveur avec `rails server`
