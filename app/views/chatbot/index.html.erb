@@ -1,3 +1,25 @@
-<h1>Hair Bot</h1>
-<h2>Ton conseiller personnel pour l'entretien de cheveux crépus</h2>
-<p>Contenu</p>
+<div class="chat-container">
+  <div class="chat-header">
+    <h1>Hair Bot</h1>
+    <h2>Ton conseiller personnel pour l'entretien de cheveux crépus</h2>
+    <p>Pose tes questions sur l'entretien des cheveux crépus</p>
+  </div>
+
+  <div class="chat-messages" id="chat-messages">
+    <div class="message bot">
+      <div class="message-content">
+        Bonjour ! Je suis ton  conseiller spécialisé dans l'entretien des cheveux crépus.
+        Comment puis-je t'aider aujourd'hui ?
+      </div>
+    </div>
+  </div>
+
+  <div class="chat-input-container">
+    <form id="chat-form">
+      <input type="text" id="user-input" placeholder="Pose ta question ici..." required>
+      <button type="submit">Envoyer</button>
+    </form>
+  </div>
+</div>
+
+<%= javascript_pack_tag 'chatbot' %>
