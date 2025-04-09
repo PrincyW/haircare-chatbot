@@ -1,0 +1,502 @@
+[
+  {
+    "query": "Comment hydrater mes cheveux crépus ?",
+    "answer": "Utilise la méthode LOC (Liquid, Oil, Cream) pour sceller l'hydratation efficacement.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "À quelle fréquence dois-je couper mes pointes ?",
+    "answer": "Il est recommandé de couper les pointes tous les 3 à 4 mois pour éviter les fourches.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Quelle est la meilleure routine capillaire pour les cheveux crépus ?",
+    "answer": "Une routine idéale inclut le lavage hebdomadaire, un soin profond, l'hydratation quotidienne et des coiffures protectrices.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Comment définir mes boucles après le shampoing ?",
+    "answer": "Utilise un gel définissant ou une crème coiffante sur cheveux mouillés et fais un twist-out ou un wash and go.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Les tresses protègent-elles mes cheveux ?",
+    "answer": "Oui, les tresses sont une coiffure protectrice, mais il faut éviter qu'elles soient trop serrées.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Comment favoriser la pousse des cheveux crépus ?",
+    "answer": "Masse ton cuir chevelu régulièrement, garde une bonne hydratation et évite les manipulations excessives.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Quels produits utiliser pour mes cheveux ?",
+    "answer": "Choisis des produits sans sulfates, sans parabènes, riches en huiles naturelles comme le beurre de karité ou l'huile de ricin.",
+    "category": "Produits"
+  },
+  {
+    "query": "Je suis en transition, par où commencer ?",
+    "answer": "Commence par couper progressivement les pointes défrisées, adopte une routine hydratante et fais des coiffures qui camouflent la démarcation.",
+    "category": "Transition"
+  },
+  {
+    "query": "Comment démêler mes cheveux sans les casser ?",
+    "answer": "Démêle toujours sur cheveux mouillés avec un après-shampoing ou un démêlant, de bas en haut avec un peigne à dents larges.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Puis-je colorer mes cheveux crépus sans les abîmer ?",
+    "answer": "Oui, avec des colorations sans ammoniaque et en intensifiant les soins hydratants avant et après la coloration.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #11 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #11, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #12 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #12, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #13 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #13, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #14 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #14, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #15 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #15, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #16 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #16, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #17 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #17, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #18 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #18, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #19 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #19, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #20 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #20, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #21 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #21, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #22 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #22, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #23 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #23, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #24 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #24, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #25 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #25, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #26 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #26, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #27 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #27, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #28 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #28, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #29 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #29, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #30 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #30, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #31 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #31, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #32 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #32, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #33 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #33, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #34 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #34, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #35 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #35, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #36 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #36, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #37 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #37, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #38 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #38, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #39 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #39, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #40 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #40, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #41 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #41, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #42 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #42, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #43 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #43, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #44 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #44, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #45 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #45, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #46 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #46, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #47 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #47, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #48 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #48, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #49 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #49, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #50 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #50, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #51 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #51, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #52 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #52, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #53 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #53, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #54 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #54, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #55 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #55, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #56 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #56, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #57 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #57, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #58 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #58, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #59 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #59, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #60 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #60, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #61 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #61, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #62 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #62, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #63 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #63, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #64 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #64, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #65 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #65, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #66 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #66, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #67 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #67, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #68 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #68, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #69 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #69, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #70 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #70, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #71 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #71, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #72 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #72, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #73 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #73, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #74 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #74, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #75 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #75, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #76 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #76, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #77 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #77, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #78 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #78, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #79 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #79, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #80 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #80, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #81 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #81, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #82 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #82, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #83 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #83, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #84 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #84, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #85 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #85, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #86 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #86, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #87 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #87, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #88 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #88, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #89 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #89, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #90 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #90, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  },
+  {
+    "query": "Exemple de question #91 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #91, à adapter selon les besoins réels.",
+    "category": "Coupes et soins"
+  },
+  {
+    "query": "Exemple de question #92 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #92, à adapter selon les besoins réels.",
+    "category": "Routine capillaire"
+  },
+  {
+    "query": "Exemple de question #93 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #93, à adapter selon les besoins réels.",
+    "category": "Définition des boucles"
+  },
+  {
+    "query": "Exemple de question #94 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #94, à adapter selon les besoins réels.",
+    "category": "Coiffures protectrices"
+  },
+  {
+    "query": "Exemple de question #95 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #95, à adapter selon les besoins réels.",
+    "category": "Croissance"
+  },
+  {
+    "query": "Exemple de question #96 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #96, à adapter selon les besoins réels.",
+    "category": "Produits"
+  },
+  {
+    "query": "Exemple de question #97 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #97, à adapter selon les besoins réels.",
+    "category": "Transition"
+  },
+  {
+    "query": "Exemple de question #98 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #98, à adapter selon les besoins réels.",
+    "category": "Démêlage"
+  },
+  {
+    "query": "Exemple de question #99 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #99, à adapter selon les besoins réels.",
+    "category": "Coloration"
+  },
+  {
+    "query": "Exemple de question #100 pour les cheveux crépus ?",
+    "answer": "Ceci est une réponse générique pour la question #100, à adapter selon les besoins réels.",
+    "category": "Hydratation"
+  }
+]
